@@ -13,7 +13,13 @@ public class Main {
 
         System.out.println("Статус книги " + harryPotter.toString());
 
+
         System.out.println("Мастер запись " + harryPotter.toString());
+
+        System.out.println("Статус книги " + harryPotter.toString());
+
+        System.out.println("новая ветка " + harryPotter.toString());
+
 
 
     }
