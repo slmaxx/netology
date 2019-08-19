@@ -11,6 +11,8 @@ public class Main {
         //Получаем статус книги
         System.out.println("Статус книги " + harryPotter.toString());
 
+        System.out.println("Статус книги " + harryPotter.toString());
+
 
     }
 }
