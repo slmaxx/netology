@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println("Статус книги " + harryPotter.toString());
 
-        System.out.println("новая ветка " + harryPotter.toString());
+        System.out.println("новая в1етка " + harryPotter.toString());
 
 
 
